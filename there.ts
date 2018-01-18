@@ -1,0 +1,1 @@
+const magik = migikcraft.io; function there(){} const whereImLooking +magik.aspecto(); magik.dixit()}
